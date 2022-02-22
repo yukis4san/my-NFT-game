@@ -84,8 +84,8 @@ const App = () => {
       return (
         <div className="connect-wallet-container">
           <img
-              src="https://i.imgur.com/TgWatRU.gif"
-              alt="Detective Pickachu"
+              src="https://i.imgur.com/D43nGVw.gif"
+              alt="Pickachu"
           />
           <button
             className="cta-button connect-wallet-button"
